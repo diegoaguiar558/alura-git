@@ -1,0 +1,48 @@
+*   [33mcommit 7053accbb8b74f4ed95a59ab1eb94ea213d13cb2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: b1fae1e 365625f
+[31m|[m [32m|[m Author: Diego Alves <diegoaguiar558@gmail.com>
+[31m|[m [32m|[m Date:   Tue Mar 15 10:38:13 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 365625fee6f7b4d0e5abed7a892a6b56f9f8b6a2[m[33m ([m[1;32mtitulo[m[33m, [m[1;32mlista[m[33m)[m
+[31m|[m [32m|[m Author: Diego Alves <diegoaguiar558@gmail.com>
+[31m|[m [32m|[m Date:   Tue Mar 15 09:34:53 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m      Lista no inicio do titulo
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit b9a10dfdf7dea8bbe6b8d59a4ece9bb8f4c612b8[m
+[31m|[m [32m|[m Author: Diego Alves <diegoaguiar558@gmail.com>
+[31m|[m [32m|[m Date:   Tue Mar 15 09:32:03 2022 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Alteração de titulo
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit b1fae1e171862bcbba66e095355bf2309eb952df[m
+[32m|[m[32m/[m  Author: Diego Alves <diegoaguiar558@gmail.com>
+[32m|[m   Date:   Tue Mar 15 10:37:49 2022 -0300
+[32m|[m   
+[32m|[m       correção nome curso de docker
+[32m|[m 
+* [33mcommit 91854cab9116291c418c8c28e9935f9f11ff7817[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+[32m|[m Author: diegoaguiar558 <diegoaguiar558@gmail.com>
+[32m|[m Date:   Fri Mar 11 15:43:21 2022 -0300
+[32m|[m 
+[32m|[m     Renomeando curso de integração contínua
+[32m|[m 
+* [33mcommit 088c778caa2a69801dc76e07da693518df60829a[m
+[32m|[m Author: Diego Alves <diegoaguiar558@gmail.com>
+[32m|[m Date:   Fri Mar 11 10:27:06 2022 -0300
+[32m|[m 
+[32m|[m     Adicionando git ignore
+[32m|[m 
+* [33mcommit fe71d4ff538be5c3afb32df96952694557f7347a[m
+[32m|[m Author: diegoaguiar558 <diegoaguiar558@gmail.com>
+[32m|[m Date:   Fri Mar 11 10:08:30 2022 -0300
+[32m|[m 
+[32m|[m     Acento adicionado no curso de integração continua
+[32m|[m 
+* [33mcommit f4b7cfa16f3f25d774523ca326356c76222cc759[m
+  Author: diegoaguiar558 <diegoaguiar558@gmail.com>
+  Date:   Fri Mar 11 10:06:28 2022 -0300
+  
+      Criando index.html com lista de cursos
